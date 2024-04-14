@@ -99,6 +99,7 @@ body {
 .sidebar-nav {
     padding: 2rem 0;
     flex: 1 1 auto;
+    max-height: 100vh;
 }
 
 a.sidebar-link {
