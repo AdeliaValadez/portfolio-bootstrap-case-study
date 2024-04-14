@@ -1,5 +1,4 @@
 /*** sideNavigation ***/
-
  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 ::after,
@@ -303,6 +302,7 @@ strong {
 .section-title {
   font-family: "montagu slab",sans-serif;
   font-size: 60px;
+  color:#173A2B;
 }
 
 .imgContainer {
@@ -404,3 +404,7 @@ a {
   padding-bottom: 100px;
 }
 
+section a {
+  font-size: 36px;
+  text-decoration: underline;
+}
