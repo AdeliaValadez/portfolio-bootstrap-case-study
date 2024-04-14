@@ -61,7 +61,8 @@ body {
     left: 0;
     bottom: 0;
     width: 250px; /* Adjust the width as needed */
-    overflow-y: auto; /* Enable vertical scrolling if content exceeds height */
+    max-height:fit-content; 
+    overflow-x: hidden;
 }
 
 .sidebar-logo {
