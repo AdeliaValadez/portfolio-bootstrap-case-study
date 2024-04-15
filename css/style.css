@@ -409,3 +409,7 @@ section a {
   font-size: 36px;
   text-decoration: underline;
 }
+
+.main {
+  background-color: white;
+}
